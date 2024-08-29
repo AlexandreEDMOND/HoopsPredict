@@ -1,0 +1,15 @@
+
+# Objectif : Créer un dataframe d'entraînement avec les informaions les plus importantes
+
+
+# Information importantes dans le dataframe
+
+Equipe à domicile
+Equipe à l'extérieur
+
+Classement actuel des 2 équipes
+
+Forme de l'équipe général (résultat du dernier match, 2/3/5/10 dernier match)
+Forme de l'équipe à domicile/extérieur (Résultat des derniers matchs en fonction de où ils jouent)
+
+Résultat du match
